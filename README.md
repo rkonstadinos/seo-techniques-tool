@@ -1,6 +1,6 @@
 # seo-techniques-tool
 
-SEOMIZED TOOL (SEO OPTIMIZED)
+SEOmized Tool (SEO Optimized)
 
 With this SEO techniques checker tool, you can check your website against 18+ SEO techniques.
 
