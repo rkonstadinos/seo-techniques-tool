@@ -1,5 +1,5 @@
 <?php
-// Get your access id and secret key here: https://moz.com/products/api/keys
+// You can just create a free moz account, use your credit card (will be not charged if you dont't enable moz pro), get your access id and secret key https://moz.com/products/api/keys
 ob_start();
 error_reporting(E_ALL ^ E_NOTICE);
 set_time_limit(0);
